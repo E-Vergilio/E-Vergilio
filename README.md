@@ -35,8 +35,10 @@ Atualmente, dedico-me a explorar o potencial dos **dados e da automação aplica
 ---
 
 ### 🌐 Idiomas  
-🇧🇷 Português – Nativo  
+🇧🇷 Português – Nativo 
+
 🇬🇧 Inglês – Leitura e Escrita Instrumental 
+
 🇯🇵 Japonês – Básico (comunicação e ambiente de trabalho)
 
 ---
